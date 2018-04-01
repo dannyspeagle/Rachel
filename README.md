@@ -8,6 +8,7 @@
 using namespace std;
 
 /***************** Prototypes ***********************/
+
 void display(Favorites fav);
 void getFood(string& food);
 string getMovie();
@@ -57,6 +58,7 @@ void display()
 
 
 /********************** Main Driver *************************/
+
 int main()
 {
 
